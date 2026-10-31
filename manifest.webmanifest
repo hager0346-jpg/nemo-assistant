@@ -1,0 +1,9 @@
+{
+  "name": "NEMO Personal Assistant",
+  "short_name": "NEMO",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "description": "A free starter prototype for a personal voice assistant."
+}
